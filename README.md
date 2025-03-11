@@ -120,7 +120,7 @@ Installed osTicket v1.15.8. From the “osTicket-Installation-Files” folder, I
 <img src="https://i.imgur.com/Sg2y300.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I went to Sites -> Default -> osTicket on the IIS Manager. On the right, I clicked “Browse *:80 (http)” to launch the osTicket setup page.
 </p>
 <br />
 
