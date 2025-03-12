@@ -93,10 +93,18 @@ From the “osTicket-Installation-Files” folder, I installed MySQL 5.5.62 (mys
 <br />
 
 <p>
+<img src="https://i.imgur.com/zD6xK4T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After the installation, the MySQL Server Configuration Wizard Launched, which eventually prompted me to set the security settings. I set both the username and password as "root".
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/AxvD8v7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Opened IIS as an Admin & Registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+I then opened IIS as an Admin & Registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 </p>
 <br />
 
@@ -104,7 +112,7 @@ Opened IIS as an Admin & Registered PHP from within IIS (PHP Manager -> C:\PHP\p
 <img src="https://i.imgur.com/CT8uXtT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Reloaded IIS (Opened IIS, Stopped and Started the server)
+After that, I reloaded IIS (Opened IIS, Stopped and Started the server)
 </p>
 <br />
 
@@ -166,34 +174,35 @@ From the “osTicket-Installation-Files” folder, I installed HeidiSQL.
 <br />
 
 <p>
+<img src="https://i.imgur.com/aZ0giQu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Opened Heidi SQL. Created a new session and entered the user and password "root". Connected to the session.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/prd9uVw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Opened Heidi SQL. Created a new session, root/root. Connected to the session. Created a database called “osTicket”
+Created a database called “osTicket”
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t8pmS1N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I continued Setting up osTicket in the browser. I set up the MySQL Database as "osTicket", the MySQL Username as "root" & the MySQL Password as "root". I then clicked “Install Now!”
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r7KX7t3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket is Installed!
 </p>
 <br />
 
